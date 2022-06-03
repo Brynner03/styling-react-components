@@ -1,0 +1,2 @@
+# Styling React Components
+In this lesson, I will be learning how to style react components both with CSS, and inline styling. I am following a long Maximilian Schwarzmuller's course on Udemy and will be posting my progress on GitHub. Stay tuned, and watch my transformation as I progress through this course!
